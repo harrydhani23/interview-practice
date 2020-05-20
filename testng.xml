@@ -8,7 +8,7 @@
 		<parameter name="browserName" value="chrome"></parameter>
 		<classes>
 			<class name="test.testCases.SearchPageTestCases" />
-<!-- 			<class name="test.testCases.DataProviderTests"/> -->
+			<class name="test.testCases.DataProviderTests"/>
 <!-- 			<class name="test.testCases.SearchPageTestCasesOne"/> -->
 <!--  			<class name="test.testCases.retryFailedDemo"/> -->
 		</classes>
