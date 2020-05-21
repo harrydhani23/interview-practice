@@ -2,7 +2,8 @@ pipeline {
     agent any
 	environment {
 
-    PATH = "C:\\WINDOWS\\SYSTEM32"
+    PATH = "C:\\WINDOWS\\SYSTEM32;%M2_HOME%\bin"
+    M2_HOME= "C:\Program Files\apache-maven"
 
 	}
     stages {
