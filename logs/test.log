@@ -292,3 +292,57 @@ Session ID: d70682f7572c8643675500e12e9b1207
 2020-05-18 18:09:47,768 WARN t.t.SearchPageTestCases [TestNG-tests-1] Entering Text in Goole Search --> CoronaVirus
 2020-05-18 18:09:49,442 ERROR t.t.SearchPageTestCases [TestNG-tests-1] Clicked Search
 2020-05-18 18:09:49,444 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.SearchPageTestCases].test1
+2020-05-21 18:36:16,517 INFO t.t.BaseTest [TestNG-tests-1] Thread is -->Thread[TestNG-tests-1,5,main]
+2020-05-21 18:36:16,524 INFO t.t.BaseTest [TestNG-tests-1] Initializing chrome browser
+2020-05-21 18:36:25,883 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.SearchPageTestCases].test1
+2020-05-21 18:36:25,884 INFO t.t.SearchPageTestCases [TestNG-tests-1] typing url --> http://www.google.com
+2020-05-21 18:36:30,288 WARN t.t.SearchPageTestCases [TestNG-tests-1] Entering Text in Goole Search --> CoronaVirus
+2020-05-21 18:36:33,522 ERROR t.t.SearchPageTestCases [TestNG-tests-1] Clicked Search
+2020-05-21 18:36:33,530 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.SearchPageTestCases].test1
+2020-05-21 18:36:35,088 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test1
+2020-05-21 18:36:35,098 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test1
+2020-05-21 18:36:35,100 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test1
+2020-05-21 18:36:35,102 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test1
+2020-05-21 18:36:35,123 INFO u.ItestListener [TestNG-PoolService-2] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:35,114 INFO u.ItestListener [TestNG-PoolService-0] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:35,126 INFO u.ItestListener [TestNG-PoolService-4] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:35,128 INFO u.ItestListener [TestNG-PoolService-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:35,130 INFO u.ItestListener [TestNG-PoolService-5] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:35,134 INFO u.ItestListener [TestNG-PoolService-3] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:37,125 INFO u.ItestListener [TestNG-PoolService-2] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:37,126 INFO u.ItestListener [TestNG-PoolService-0] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:37,129 INFO u.ItestListener [TestNG-PoolService-4] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:37,131 INFO u.ItestListener [TestNG-PoolService-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:37,136 INFO u.ItestListener [TestNG-PoolService-5] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:37,140 INFO u.ItestListener [TestNG-PoolService-3] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:36:37,146 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test2
+2020-05-21 18:36:37,149 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test2
+2020-05-21 18:36:37,151 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test2
+2020-05-21 18:36:37,154 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test2
+2020-05-21 18:41:36,897 INFO t.t.BaseTest [TestNG-tests-1] Thread is -->Thread[TestNG-tests-1,5,main]
+2020-05-21 18:41:36,904 INFO t.t.BaseTest [TestNG-tests-1] Initializing chrome browser
+2020-05-21 18:41:42,326 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.SearchPageTestCases].test1
+2020-05-21 18:41:42,383 INFO t.t.SearchPageTestCases [TestNG-tests-1] typing url --> http://www.google.com
+2020-05-21 18:41:46,100 WARN t.t.SearchPageTestCases [TestNG-tests-1] Entering Text in Goole Search --> CoronaVirus
+2020-05-21 18:41:49,020 ERROR t.t.SearchPageTestCases [TestNG-tests-1] Clicked Search
+2020-05-21 18:41:49,023 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.SearchPageTestCases].test1
+2020-05-21 18:41:50,607 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test1
+2020-05-21 18:41:50,616 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test1
+2020-05-21 18:41:50,625 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test1
+2020-05-21 18:41:50,629 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test1
+2020-05-21 18:41:50,642 INFO u.ItestListener [TestNG-PoolService-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:50,644 INFO u.ItestListener [TestNG-PoolService-2] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:50,650 INFO u.ItestListener [TestNG-PoolService-3] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:50,653 INFO u.ItestListener [TestNG-PoolService-0] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:50,654 INFO u.ItestListener [TestNG-PoolService-5] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:50,657 INFO u.ItestListener [TestNG-PoolService-4] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:52,652 INFO u.ItestListener [TestNG-PoolService-2] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:52,672 INFO u.ItestListener [TestNG-PoolService-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:52,680 INFO u.ItestListener [TestNG-PoolService-5] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:52,728 INFO u.ItestListener [TestNG-PoolService-0] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:52,738 INFO u.ItestListener [TestNG-PoolService-4] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:52,753 INFO u.ItestListener [TestNG-PoolService-3] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test
+2020-05-21 18:41:52,764 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test2
+2020-05-21 18:41:52,767 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test2
+2020-05-21 18:41:52,777 INFO u.ItestListener [TestNG-tests-1] I came here onTestStart of test --> [TestClass name=class test.testCases.DataProviderTests].test2
+2020-05-21 18:41:52,781 INFO u.ItestListener [TestNG-tests-1] I came here onTestSuccess of test --> [TestClass name=class test.testCases.DataProviderTests].test2
